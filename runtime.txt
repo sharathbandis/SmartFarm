@@ -1,0 +1,10 @@
+flask
+gunicorn
+numpy
+pandas
+torch
+torchvision
+pillow
+requests
+scikit-learn
+markupsafe
